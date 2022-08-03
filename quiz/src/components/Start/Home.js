@@ -9,7 +9,7 @@ function Home() {
                 <ReactTypingEffect/>
             </div>
             <button>
-            <Link to="/Name" className="text">Play</Link>
+                <Link to="/Name" className="text">Play</Link>
             </button>
         </div>
     );
